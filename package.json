@@ -1,0 +1,22 @@
+{
+  "name": "afiline",
+  "version": "1.0.0",
+  "description": "bienvenidos a la api de afiline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentina-pulgarin/api-afiline-.git"
+  },
+  "author": "valentina pulgarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentina-pulgarin/api-afiline-/issues"
+  },
+  "homepage": "https://github.com/valentina-pulgarin/api-afiline-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
